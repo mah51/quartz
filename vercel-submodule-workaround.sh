@@ -1,5 +1,5 @@
 # github submodule repo address without https:// prefix
-SUBMODULE_GITHUB=github.com/mah51/my-vault
+SUBMODULE_GITHUB=github.com/mah51/web-vault
 
 # .gitmodules submodule path
 SUBMODULE_PATH=content
